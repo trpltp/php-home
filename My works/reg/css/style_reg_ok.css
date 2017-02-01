@@ -1,0 +1,30 @@
+.form-row
+{
+    margin-bottom: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.reg_ok-form
+{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form-row h4
+{
+    color: #4cae4c;
+    font-size: 25pt;
+}
+
+.form-row a
+{
+    color: #1e6a9a;
+    text-decoration: underline;
+}
+
+*
+{
+    font-family: Arial;
+    font-size: 15pt;
+}
